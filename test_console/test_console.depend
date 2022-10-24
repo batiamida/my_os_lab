@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666640143 source:c:\users\gram\desktop\testproject_cpp\test_console\main.cpp
+	<iostream>
+	<windows.h>
+
